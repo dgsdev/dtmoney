@@ -6,6 +6,8 @@ yarn add @types/styled-components -D  --> Entende tipagem typescript
 
 Instalar extensão vscode-styled-components.
 
+colorize
+
 -----------------
 
 styled-components _suporta encadeamento de estilos como no sass

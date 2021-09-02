@@ -1,3 +1,12 @@
 Ignite - ReactJS
 ----------------
 yarn add styled-components --> Estilização css
+
+yarn add @types/styled-components -D  --> Entende tipagem typescript
+
+Instalar extensão vscode-styled-components.
+
+-----------------
+
+styled-components _suporta encadeamento de estilos como no sass
+                  _fica somente no escopo do componente.

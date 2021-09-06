@@ -6,8 +6,7 @@ export function App() {
   return (
     <>
       <Header />
-      <Dashboard />
-      <h1>Hello New World Typescript 2021</h1>
+      <Dashboard />      
       <GlobalStyle />
     </>
   );

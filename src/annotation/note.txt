@@ -17,4 +17,8 @@ Simular APIs fakes para construir front-end no desenvolvimento.
 
 Ferramentas: Json-server, Mirage JS e MSW (Mock(Funcionamento fictício) Service Worker)
 
-yarn add miragejs
+yarn add miragejs --> Simula API's
+
+yarn add axios   --> Axios é uma biblioteca para consumo de APIs
+
+yarn add react-modal --> Modal  yarn add  @types/react-modal -D

@@ -1,3 +1,3 @@
 import styled from "styled-components";
 
-export const NewTransactionModalStyles = styled.div``;
+export const NewTransactionModalStyles = styled.form``;

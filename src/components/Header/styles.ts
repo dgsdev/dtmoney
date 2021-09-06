@@ -14,18 +14,18 @@ export const Content = styled.div`
   align-items: center;
 
   button {
-      font-size: 1rem;
-      background: var(--blue-light);
-      border: 0;
-      cursor: pointer;
-      color: var(--shape);
-      transition: filter 0.2s;
-      padding: 0 2rem;
-      height: 3rem;
-      border-radius: 0.25rem;
+    font-size: 1rem;
+    background: var(--blue-light);
+    border: 0;
+    cursor: pointer;
+    color: var(--shape);
+    transition: filter 0.2s;
+    padding: 0 2rem;
+    height: 3rem;
+    border-radius: 0.25rem;
   }
 
   &:hover {
-      filter: brightness(0.9);
-  }  
+    filter: brightness(0.9);
+  }
 `;

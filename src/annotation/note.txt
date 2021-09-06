@@ -12,3 +12,9 @@ colorize
 
 styled-components _suporta encadeamento de estilos como no sass
                   _fica somente no escopo do componente.
+
+Simular APIs fakes para construir front-end no desenvolvimento.
+
+Ferramentas: Json-server, Mirage JS e MSW (Mock(Funcionamento fictício) Service Worker)
+
+yarn add miragejs

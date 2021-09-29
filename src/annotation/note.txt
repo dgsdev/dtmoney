@@ -24,3 +24,4 @@ yarn add axios   --> Axios é uma biblioteca para consumo de APIs
 yarn add react-modal --> Modal  yarn add  @types/react-modal -D
 
 yarn add polished --> Utilizado para estilização de elementos
+

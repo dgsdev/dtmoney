@@ -16,8 +16,7 @@ export function App() {
   }
   function handleCloseNewTransactionModal() {
       setIsNewTransactionModalOpen(false);
-  }
-  
+  }  
   return (
     <>
       <Header onOpenNewTransactionModal={handleOpenNewTransactionModal} />
@@ -26,8 +25,7 @@ export function App() {
 
       <NewTransactionModal
         isOpen={isNewTransactionModalOpen}
-        onRequestClose={handleCloseNewTransactionModal}
-       
+        onRequestClose={handleCloseNewTransactionModal}       
        />
       
       <GlobalStyle />

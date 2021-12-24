@@ -42,6 +42,14 @@ createServer({
           category: 'Escritório',
           amount: 3500,
           createdAt: new Date('2021-11-10 12:00:00')
+        },
+        {
+          id: 5,
+          title: 'Investimento',
+          type: 'withdraw',
+          category: 'Tecnologia',
+          amount: 60500,
+          createdAt: new Date('2021-12-31 18:30:00')
         }
       ],
     })

@@ -27,7 +27,9 @@ yarn add polished --> Utilizado para estilização de elementos
 
 Contextos e Hooks
 
-Context API
+prop dilling --> repassar propriedades para componentes filhos
 
-Criar Hook
+Contexto --> compartilha estado entre componentes, acessa mesma informação independente de onde estejam.
+
+Hooks --> são funções que retornam valores, podem ser usadas em componentes, funções e classe.
 

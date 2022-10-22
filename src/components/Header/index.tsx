@@ -12,7 +12,7 @@ export function Header({ onOpenNewTransactionModal }: HeaderProps) {
             <Content>
             <img src={logoImg} alt="dt money" />
             <button type="button" onClick={onOpenNewTransactionModal}>
-                Testanto GitHub Codespaces 2022
+                Bem-vindo, Miguell! 2022
             </button>
             <button type="button" onClick={onOpenNewTransactionModal}>
               Nova Transação

@@ -12,7 +12,7 @@ export function Header({ onOpenNewTransactionModal }: HeaderProps) {
             <Content>
             <img src={logoImg} alt="dt money" />
             <button type="button" onClick={onOpenNewTransactionModal}>
-                Bem-vindo, Miguell! 2022
+                Bem-vindo, Miguell! 2022 Rebecca Nota 10! 
             </button>
             <button type="button" onClick={onOpenNewTransactionModal}>
               Nova Transação
